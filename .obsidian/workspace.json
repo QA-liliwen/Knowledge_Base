@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "ed56d4f7f805bfe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1384267af8447710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a174d316002903e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11-api_project/单接口用例制作教程.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "单接口用例制作教程"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed0713f5a8f815cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b626bf5ec1e1d748",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea897a8bf70ef232",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e098d3767019d5e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ed18c300ce0fb28a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "468c6ceff151db38",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbcc911f2f0ea696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99e495db9713ec98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VUE/Pasted image 20260908104642.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "0281998227235c21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VUE/Pasted image 20260908104642.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "8deda44ac06a9902",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b27de0f048d6cfb0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "edfb68dc9d01b4f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VUE/Pasted image 20260908104642.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "5a174d316002903e",
+  "lastOpenFiles": [
+    "11-api_project/单接口用例制作参考.md",
+    "11-api_project/单接口用例制作教程.md",
+    "11-api_project/5-角色信息传值/多接口脚本传参与插件二次开发.md",
+    "11-api_project/5-角色信息传值/01-数据库设计.md",
+    "11-api_project/5-角色信息传值/00-代码核心链路.md",
+    "11-api_project/5-角色信息传值/08-单接口执行与消费.md",
+    "11-api_project/5-角色信息传值/09-多接口变量池种子.md",
+    "11-api_project/5-角色信息传值/03-角色映射接口.md",
+    "11-api_project/5-角色信息传值/12-日志留痕与排查.md",
+    "11-api_project/5-角色信息传值/11-脚本侧消费.md",
+    "11-api_project/5-角色信息传值/10-多接口通道落地.md",
+    "11-api_project/5-角色信息传值/07-单接口用例组装.md",
+    "11-api_project/5-角色信息传值/06-请求头预组装.md",
+    "11-api_project/5-角色信息传值/05-Token批量获取.md",
+    "11-api_project/5-角色信息传值/04-执行准备与角色解析.md",
+    "11-api_project/5-角色信息传值/02-前端角色配置.md",
+    "11-api_project/5-角色信息传值",
+    "11-api_project/5-",
+    "11-api_project/4-SQL断言实现/1-SQL断言设计.md",
+    "11-api_project/4-SQL断言实现/2-数据层与配置链路.md",
+    "11-api_project/4-SQL断言实现/5-断言引擎接入.md",
+    "11-api_project/4-SQL断言实现/4-入参的断言操作.md",
+    "11-api_project/4-SQL断言实现/3-SQL执行器.md",
+    "11-api_project/4-SQL断言实现",
+    "11-api_project/2-本地执行链路/03-执行时测试项整合.md",
+    "11-api_project/3-Jenkins调用/05-多接口打包zip文件.md",
+    "11-api_project/3-Jenkins调用/06-Jenkins执行多接口入口.md",
+    "11-api_project/1-前端整体结构/06-测试项_增删改查2.md",
+    "01-Django/创建项目.md",
+    "11-api_project/3-Jenkins调用",
+    "11-api_project/1-前端整体结构",
+    "11-api_project/2-本地执行链路",
+    "11-api_project",
+    "01-Django",
+    "File/Pycharm激活.zip",
+    "File",
+    "img/Pasted image 20260908165554.png",
+    "Pasted image 20260908165554.png",
+    "img/Pasted image 20260908104642.png"
+  ]
+}
